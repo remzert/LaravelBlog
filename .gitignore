@@ -4,3 +4,8 @@
 Homestead.yaml
 Homestead.json
 .env
++ nbproject/
+  build-impl.xml
+  + private/
+  + project.properties
+  + project.xml
