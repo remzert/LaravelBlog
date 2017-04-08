@@ -3,19 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-
             <file>file:/F:/wamp/www/LaravelTuto/resources/views/default.blade.php</file>
+            <file>file:/F:/wamp/www/LaravelTuto/composer.lock</file>
             <file>file:/F:/wamp/www/LaravelTuto/app/Providers/RouteServiceProvider.php</file>
+            <file>file:/F:/wamp/www/LaravelTuto/composer.json</file>
             <file>file:/F:/wamp/www/LaravelTuto/app/Http/routes.php</file>
             <file>file:/F:/wamp/www/LaravelTuto/app/Providers/AuthServiceProvider.php</file>
+            <file>file:/F:/wamp/www/LaravelTuto/app/Providers/AppServiceProvider.php</file>
             <file>file:/F:/wamp/www/LaravelTuto/app/Providers/EventServiceProvider.php</file>
             <file>file:/F:/wamp/www/LaravelTuto/config/app.php</file>
-            <file>file:/F:/wamp/www/LaravelTuto/resources/views/Links/success.blade.php</file>
-            <file>file:/F:/wamp/www/LaravelTuto/resources/views/default.blade.php</file>
-            <file>file:/F:/wamp/www/LaravelTuto/app/Http/Controllers/LinksController.php</file>
-            <file>file:/F:/wamp/www/LaravelTuto/resources/views/Links/create.blade.php</file>
-            <file>file:/F:/wamp/www/LaravelTuto/app/Http/routes.php</file>
-
         </group>
     </open-files>
 </project-private>
